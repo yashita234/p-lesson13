@@ -1,0 +1,1 @@
+print("half pyramind pattern of stars")
